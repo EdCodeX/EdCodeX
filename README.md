@@ -42,9 +42,9 @@
 ## Experience
 
 - **Web Projects:** Personal & freelance web apps using PHP, JS, React, Laravel, HTML/CSS, Bootstrap & Tailwind  
-- 🎓 **Internship:** 3 months hands-on training at **UPSKILL**  
-- 🏫 **University:** Database training at **Khatam University**  
-- 🗣️ **Teaching:** English & Programming instructor
+- **Internship:** 3 months hands-on training at **UPSKILL**  
+- **University:** Database training at **Khatam University**  
+- **Teaching:** English & Programming instructor
 
 ---
 
@@ -61,7 +61,7 @@ Full-Stack Web Development, Responsive Web Apps, React & Laravel, Database Desig
 ---
 
 ## Fun Fact
-Coffee fuels my code ☕ | Night owl coder | Explorer of new tech stacks
+Coffee fuels my code | Night owl coder | Explorer of new tech stacks
 
 ---
 
